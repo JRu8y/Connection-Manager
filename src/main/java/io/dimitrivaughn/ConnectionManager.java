@@ -82,8 +82,6 @@ public class ConnectionManager {
         }
 
 
-
-
 // Declaring a series of getters and setters for private fields declared in the outer class
 
         public String getIP(){
