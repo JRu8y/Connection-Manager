@@ -105,8 +105,6 @@ public class ConnectionManager {
             return portID;
         }
 
-
-
         public int getMaxNumberConnections() {
             return maxNumberConnections;
         }
@@ -150,6 +148,7 @@ public class ConnectionManager {
             }
             return "No connections available";
         }
+
 
 // Closes connection by setting connection status to closed
 

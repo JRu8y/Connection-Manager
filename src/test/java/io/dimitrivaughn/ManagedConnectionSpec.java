@@ -12,14 +12,9 @@ import static org.junit.Assert.assertEquals;
  */
 public class ManagedConnectionSpec {
 
-    int expectedValue;
-    int actualValue;
-    boolean expectedState;
-    boolean actualState;
     Connection connection;
     String expectedString;
     String actualString;
-
 
     ConnectionManager manager;
 
